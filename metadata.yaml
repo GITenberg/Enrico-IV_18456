@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8041
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Pirandello
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18456#Enrico-IV
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2006-05-27'
 gutenberg_type: Text
